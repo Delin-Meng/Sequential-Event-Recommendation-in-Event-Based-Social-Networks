@@ -33,7 +33,7 @@ Predict:
 ## 🧠 Model Architecture
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3ee5614a-8c23-49fa-8ca8-9555d703ab0a" width="500">
+  <img src="[https://github.com/user-attachments/assets/3ee5614a-8c23-49fa-8ca8-9555d703ab0a]" width="500">
 </p>
 
 The model consists of three major components:
