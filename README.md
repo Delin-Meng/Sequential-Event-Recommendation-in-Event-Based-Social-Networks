@@ -153,16 +153,6 @@ Statistics:
 | Negative Ratio | 73.17% |
 ---
 
-## 👨‍💻 Author
-
-**Delin Meng**
-
-🎓 Chungbuk National University
-
-📧 dylanmeng@chungbuk.ac.kr
-
----
-
 ## 📬 Contact
 
 Feel free to open an issue or contact me via email for questions, suggestions, or collaborations.
