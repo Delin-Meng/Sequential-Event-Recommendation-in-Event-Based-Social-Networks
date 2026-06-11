@@ -6,10 +6,6 @@
 
 ## 🌟 Overview
 
-Event-Based Social Networks (EBSNs), such as Meetup and Eventbrite, contain rich sequential user-event interaction behaviors.
-
-Users continuously participate in different events, causing their interests to evolve over time. Modeling these historical interaction sequences is therefore essential for personalized event recommendation.
-
 This project investigates whether the recently proposed **Mamba State Space Model (SSM)** can effectively capture long-range dependencies in user-event interaction sequences and improve recommendation performance.
 
 ---
@@ -33,21 +29,6 @@ Predict:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f4f2ccf6-c46c-40f6-aae6-827ff4dfdb43" width="900">
 </p>
-
-### Processing Steps
-
-1️⃣ Sort interactions chronologically
-
-2️⃣ Log-transform & normalize event features
-
-3️⃣ Build user historical interaction sequences
-
-4️⃣ Apply sliding-window sequence generation
-
-5️⃣ Convert event features into dense tensors
-
-6️⃣ Feed sequences into the Mamba recommendation model
-
 ---
 
 ## 🧠 Model Architecture
