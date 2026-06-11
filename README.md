@@ -220,20 +220,6 @@ Potential extensions include:
 
 ---
 
-## ⭐ Citation
-
-If you find this repository useful, please consider starring the project and citing the corresponding paper.
-
-```bibtex
-@article{meng2025mamba,
-  title={Mamba for Sequential Event Recommendation in Event-Based Social Networks},
-  author={Meng, Delin},
-  year={2025}
-}
-```
-
----
-
 ## 📬 Contact
 
 Feel free to open an issue or contact me via email for questions, suggestions, or collaborations.
