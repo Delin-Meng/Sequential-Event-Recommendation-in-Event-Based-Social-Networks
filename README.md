@@ -140,7 +140,7 @@ python evaluation.py
 
 This implementation is evaluated on the:
 
-🏆 **Kaggle Event Recommendation Engine Challenge Dataset**
+🏆 **[Kaggle Event Recommendation Engine Challenge Dataset](https://www.kaggle.com/competitions/event-recommendation-engine-challenge)**
 
 Statistics:
 
