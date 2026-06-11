@@ -151,32 +151,6 @@ Statistics:
 | Interactions | 15,398 |
 | Positive Ratio | 26.83% |
 | Negative Ratio | 73.17% |
-
----
-
-## 💡 Key Features
-
-✨ Mamba-based Sequential Recommendation
-
-✨ Long-Range Dependency Modeling
-
-✨ Event-Based Social Network Recommendation
-
-✨ Efficient State Space Model Inference
-
-✨ Ranking + Classification Evaluation
-
-✨ Reproducible Experimental Pipeline
-
----
-
-## 📈 Experimental Results
-
-The experimental results demonstrate that Mamba can effectively model user-event interaction sequences and achieve competitive performance on both:
-
-- Classification Tasks
-- Recommendation Ranking Tasks
-
 ---
 
 ## 🔬 Future Directions
