@@ -29,7 +29,6 @@ Predict:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f4f2ccf6-c46c-40f6-aae6-827ff4dfdb43" width="900">
 </p>
----
 
 ## 🧠 Model Architecture
 
