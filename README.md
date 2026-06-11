@@ -1,4 +1,4 @@
-# 🚀 Mamba for Sequential Event Recommendation in Event-Based Social Networks
+# 🚀 Analysis of Mamba Model for Sequential Event Recommendation in Event-Based Social Networks
 
 > Exploring the effectiveness of Mamba State Space Models for sequential event recommendation in Event-Based Social Networks (EBSNs).
 
