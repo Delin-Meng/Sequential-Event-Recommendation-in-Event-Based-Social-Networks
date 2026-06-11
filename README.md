@@ -153,18 +153,6 @@ Statistics:
 | Negative Ratio | 73.17% |
 ---
 
-## 🔬 Future Directions
-
-Potential extensions include:
-
-- Graph-enhanced Mamba
-- Social-aware Sequential Recommendation
-- Temporal Graph Neural Networks
-- Hybrid Mamba-GNN Architectures
-- Large Language Model Enhanced Event Recommendation
-
----
-
 ## 👨‍💻 Author
 
 **Delin Meng**
