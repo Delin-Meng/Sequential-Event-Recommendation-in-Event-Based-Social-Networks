@@ -94,9 +94,9 @@ containing:
 |----------|------------|
 | user_id | User ID |
 | event_id | Event ID |
-| prediction_score | Predicted probability |
-| prediction_label | Interested or Not |
-| label | Ground Truth |
+| probability | Probability of Intereted |
+| prediction | Interested or Not |
+| actual_label | Ground Truth |
 
 ---
 
